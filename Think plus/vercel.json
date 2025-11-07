@@ -1,6 +1,5 @@
 {
-    "buildCommand": "",
-    "outputDirectory": ".",
-    "framework": "static",
-    "cleanUrls": false
+    "rewrites": [
+    { "source": "/", "destination": "/thinkplus.html" }
+    ]
 }
